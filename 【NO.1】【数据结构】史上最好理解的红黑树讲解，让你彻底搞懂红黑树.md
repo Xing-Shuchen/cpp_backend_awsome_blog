@@ -29,7 +29,7 @@
 6. 从根节点到叶子节点的所有路径上不能有 2 个连续的红色节点
 7. 从任一节点到叶子节点的所有路径都包含相同数目的黑色节点
 
-![image-20221206204445105](file://C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20221206204445105.png?lastModify=1670851010)
+![[image-20221206204445105]](file://C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20221206204445105.png?lastModify=1670851010)
 
 根据上面的性质，我们来判断一下下面这课树是不是红黑树
 
